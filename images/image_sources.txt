@@ -1,0 +1,5 @@
+all graphics should be free (Cc-by) licensed.
+detailed info:
+
+filename    url    license
+
