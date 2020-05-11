@@ -1,4 +1,6 @@
 # Submarine-Attack-game
 A submarine game. 
-move with WASD. 
+
+move with WASD.
+
 shoot torpedos with SPACE. 
