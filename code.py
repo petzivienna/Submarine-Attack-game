@@ -522,7 +522,7 @@ class MyGame(arcade.Window):
                 self.player.hitpoints -= random.randint(25, 50)
 
         # Generate a list of all sprites that collided with the player.
-        hit_list = arcade.check_for_collision_with_list(self.player,self.enemy_list)
+        hit_list = arcade.check_for_collision_with_list(self.player,self.seeker_list)
 
 
         for crashseeker in hit_list:
